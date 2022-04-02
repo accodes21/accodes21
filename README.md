@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Documentation and WebDev
 - 💬 Ask me about HTML, CSS and Python 
-- 📫 How to reach me: [Twitter - @ChopkarAarya](https://twitter.com/ChopkarAarya) ,   [LinkedIn - Aarya Chopkar](www.linkedin.com/in/aarya-chopkar-581aa2228)
+- 📫 How to reach me: [Twitter - @ChopkarAarya](https://twitter.com/ChopkarAarya) ,   [LinkedIn - Aarya Chopkar](https://www.linkedin.com/in/aarya-chopkar-581aa2228/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend hours for photography.
 
