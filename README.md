@@ -25,6 +25,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=accodes21&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
+<a href="https://github.com/accodes21/github-readme-activity-graph"><img alt="Aarya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=accodes21&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /><a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
