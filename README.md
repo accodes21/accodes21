@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I spend hours for photography.
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India <img src="https://img.icons8.com/color/344/india.png" width="20px" alt="India Flag"></h3>
 
 
 
