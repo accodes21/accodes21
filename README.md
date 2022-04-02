@@ -1,3 +1,5 @@
+![](https://github.com/accodes21/accodes21/blob/main/git.gif) 
+
 ### Hi I'm Aarya Chopkar 👋
 
 - 🔭 I’m currently working on Frontend Development
