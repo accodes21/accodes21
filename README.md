@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Documentation and WebDev
-- 💬 Ask me about HTML, CSS and Python 
+- 💬 Ask me about HTML, CSS . JavaScript and Python .
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend hours for photography.
 
@@ -30,7 +30,7 @@
 
 <a href="https://github.com/accodes21/github-readme-activity-graph"><img alt="Aarya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=accodes21&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /><a>
 
-<h3 align="left"> 📫 Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href = "https://www.linkedin.com/in/aarya-chopkar-581aa2228/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
 <a href="https://www.hackerrank.com/@aaryachopkar" ><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aaryachopkar" width="30" /></a>
