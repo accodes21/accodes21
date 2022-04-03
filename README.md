@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Documentation and WebDev
-- 💬 Ask me about HTML, CSS . JavaScript and Python .
+- 💬 Ask me about HTML, CSS , JavaScript and Python .
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend hours for photography.
 
