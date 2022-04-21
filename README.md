@@ -21,9 +21,7 @@
 ## 📊 My Github Stats
 
 <p align="center">
-    <a href="https://github.com/accodes21">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=accodes21&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <a href="http://www.github.com/accodes21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=accodes21&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
  <a href="https://github.com/accodes21"><img alt="Aarya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=accodes21&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/accodes21"><img alt="Aarya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=accodes21&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
