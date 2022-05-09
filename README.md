@@ -2,10 +2,8 @@
 
 ## Hi I'm Aarya Chopkar 👋
 
-- 🔭 I’m currently working on Frontend Development
+- 🔭 I’m currently working on Frontend Development and Cloud Computing.
 - 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on Github
-- 🤔 I’m looking for help with Documentation and WebDev
 - 💬 Ask me about HTML, CSS , JavaScript and Python .
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend hours for photography.
