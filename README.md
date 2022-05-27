@@ -1,5 +1,7 @@
 ![](https://github.com/accodes21/accodes21/blob/main/git.gif) 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&center=true&width=800&lines=FrontEnd+Developer+;Python+Enthusiast;Learning+Cloud;Photographer)](https://git.io/typing-svg)
+
 ## Hi I'm Aarya Chopkar 👋
 
 - 🔭 I’m currently working on Frontend Development and Cloud Computing.
@@ -9,7 +11,6 @@
 - ⚡ Fun fact: I spend hours for photography.
 
 
-<h3 align="center">A passionate frontend developer from India <img src="https://img.icons8.com/color/344/india.png" width="20px" alt="India Flag"></h3>
 
 
 
