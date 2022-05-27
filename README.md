@@ -15,7 +15,8 @@
 
 
 <h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://www.cprogramming.com/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://www.python.org" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  <a href="https://code.visualstudio.com/" > <img src="https://img.icons8.com/color/30/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/> </a> <a href="https://www.github.com/accodes21" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://git-scm.com/" > <img src="https://img.icons8.com/color/30/git.png" alt="git" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/30/kubernetes.png" alt="kubernetes" width="40" height="40"/> </a> </p>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ps,py,figma,vscode,git,github,mysql,gcp,kubernetes)](https://skillicons.dev)
 
 ## 📊 My Github Stats
 
@@ -27,6 +28,7 @@
 
 <a href="https://github.com/accodes21/github-readme-activity-graph"><img alt="Aarya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=accodes21&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /><a>
 
+    
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href = "https://www.linkedin.com/in/aarya-chopkar-581aa2228/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
