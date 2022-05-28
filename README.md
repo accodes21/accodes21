@@ -35,3 +35,6 @@
 <a href="https://www.hackerrank.com/@aaryachopkar" ><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aaryachopkar" width="30" /></a>
  <a href = "https://twitter.com/ChopkarAarya"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
 </p>
+
+    
+![snake gif](https://github.com/accodes21/accodes21/blob/output/github-contribution-grid-snake.gif)
