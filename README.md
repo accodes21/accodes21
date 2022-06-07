@@ -2,6 +2,8 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=FrontEnd+Developer+;Python+Enthusiast;Learning+Cloud;Photographer)](https://git.io/typing-svg)
 
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" align="right">
+
 ## Hi I'm Aarya Chopkar 👋
 
 - 🔭 I’m currently working on Frontend Development and Cloud Computing.
@@ -9,9 +11,6 @@
 - 💬 Ask me about HTML, CSS , JavaScript and Python .
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend hours for photography.
-
-
-
 
 
 <h2 align="left">Languages and Tools:</h2>
