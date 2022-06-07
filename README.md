@@ -15,7 +15,8 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ps,py,figma,vscode,git,github,mysql,gcp,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,react,ps,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode,git,github,mysql,gcp,kubernetes)](https://skillicons.dev)
 
 ## 📊 My Github Stats
 
