@@ -7,8 +7,8 @@
 ## Hi I'm Aarya Chopkar 👋
 
 - 🔭 I’m currently working on Frontend Development and Cloud Computing.
-- 🌱 I’m currently learning Javascript
-- 💬 Ask me about HTML, CSS , JavaScript and Python .
+- 🌱 I’m currently learning React and exploring Python.
+- 💬 Ask me about HTML, CSS , JavaScript and Python.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend hours for photography.
 
