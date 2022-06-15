@@ -1,4 +1,4 @@
-![](https://github.com/accodes21/accodes21/blob/main/git.gif) 
+![](https://github.com/accodes21/accodes21/blob/master/git.gif) 
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=FrontEnd+Developer+;Python+Enthusiast;Learning+Cloud;Photographer)](https://git.io/typing-svg)
 
