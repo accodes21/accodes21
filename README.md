@@ -6,11 +6,11 @@
 
 ## Hi I'm Aarya Chopkar 👋
 
-- 🔭 I’m currently working on Frontend Development and Cloud Computing.
-- 🌱 I’m currently learning React and exploring Python.
-- 💬 Ask me about HTML, CSS , JavaScript and Python.
+- 🔭 Working on Frontend Development and Python
+- 🌱 Learning React and DSA
+- 💬 Ask me about HTML, CSS, JavaScript and Python.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend hours for photography.
+- ⚡ Love Swimming, Badminton and Cricket.
 
 
 <h2 align="left">Languages and Tools:</h2>
