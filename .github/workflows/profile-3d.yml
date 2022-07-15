@@ -9,13 +9,13 @@ jobs:
     name: Main Workflow
     steps:
       - uses: actions/checkout@v2
-      - uses:  accodes21/3DContributionGraph@CustomFolderV3
+      - uses:  Sabyasachi-Seal/3DContributionGraph@CustomFolderV3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.name Aarya Chopkar
+          git config user.name accodes21
           git config user.email aaryachopkar@gmail.com
           git pull
           git add -A .
