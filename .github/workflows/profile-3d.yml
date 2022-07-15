@@ -1,24 +1,23 @@
-name: GitHub-Profile-3D-Contrib
-
+name: Contribution Graph
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  schedule:
+  - cron: "0 */1 * * *"
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    name: Main Workflow
     steps:
       - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+      - uses:  Sabyasachi-Seal/3DContributionGraph@CustomFolderV3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.name accodes21
+          git config user.name Aarya Chopkar
           git config user.email aaryachopkar@gmail.com
+          git pull
           git add -A .
-          git commit -m "3D Commit"
+          git commit -m "Update 3D Graph"
           git push
