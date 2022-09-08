@@ -16,9 +16,9 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,bootstrap,react,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,bootstrap,react,tailwind,py)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=materialui,ps,figma,vscode,git,github,mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=gcp,kubernetes,vercel,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,kubernetes,vercel)](https://skillicons.dev)
 
 ## 📊 My Github Stats
 
