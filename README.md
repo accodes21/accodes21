@@ -5,7 +5,8 @@
 
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" align="right">
 
-## Hi I'm Aarya Chopkar 👋
+
+## Hi I'm Aarya Chopkar 👋!
 
 - 🔭 Working on Frontend Development and Python
 - 🌱 Learning React and DSA
@@ -13,12 +14,14 @@
 - 😄 Pronouns: He/His
 - ⚡ Love Swimming, Badminton and Cricket.
 
-
 <h2 align="left">Languages and Tools:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,bootstrap,react,tailwind,py)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=materialui,ps,figma,vscode,git,github,mysql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=gcp,kubernetes,vercel)](https://skillicons.dev)
+
+
+<img src="https://user-images.githubusercontent.com/101868279/196018622-2660de1b-f264-4ee4-bbf0-08dd36d162d0.svg" width="255" align="right">
 
 ## 📊 My Github Stats
 
