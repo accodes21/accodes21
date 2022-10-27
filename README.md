@@ -6,7 +6,7 @@
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" align="right">
 
 
-## Hi I'm Aarya Chopkar 👋!
+# Hi I'm Aarya Chopkar 👋!
 
 - 🔭 Working on Frontend Development and Python
 - 🌱 Learning React and DSA
