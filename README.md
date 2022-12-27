@@ -30,8 +30,6 @@
  <a href="https://github.com/accodes21"><img alt="Aarya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=accodes21&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/accodes21"><img alt="Aarya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=accodes21&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
 
-<a href="https://github.com/accodes21/github-readme-activity-graph"><img alt="Aarya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=accodes21&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /><a>
-
     
 <h2 align="left">Connect with me:</h2>
 <p align="left">
