@@ -36,4 +36,4 @@
 </p>
 
     
-![snake gif](https://github.com/accodes21/accodes21/blob/output/github-contribution-grid-snake.svg)
+![GitHub-Mark-Dark](https://github.com/accodes21/accodes21/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)![GitHub-Mark-Light](https://github.com/accodes21/accodes21/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only)
