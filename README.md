@@ -17,7 +17,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,bootstrap,react,tailwind,py,vite,nextjs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=materialui,ps,figma,vscode,git,github,mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=firebase,gcp,kubernetes,vercel,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,firebase,gcp,kubernetes,vercel,linux)](https://skillicons.dev)
 
 ## 📊 My Github Stats
 
