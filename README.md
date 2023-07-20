@@ -32,7 +32,7 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/aarya-chopkar-581aa2228/"><img src="https://skillicons.dev/icons?i=linkedin" width="38px"/></a>
 <a href="https://www.hackerrank.com/@aaryachopkar" ><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aaryachopkar" width="38px" /></a>
- <a href = "https://twitter.com/ChopkarAarya"><img src="https://skillicons.dev/icons?i=twitter" width="38px"/></a>
+ <a href = "https://twitter.com/aarya_chopkar"><img src="https://skillicons.dev/icons?i=twitter" width="38px"/></a>
 </p>
 
     
