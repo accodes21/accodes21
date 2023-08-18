@@ -34,6 +34,3 @@
 <a href="https://www.hackerrank.com/@aaryachopkar" ><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aaryachopkar" width="38px" /></a>
  <a href = "https://twitter.com/aarya_chopkar"><img src="https://skillicons.dev/icons?i=twitter" width="38px"/></a>
 </p>
-
-    
-![GitHub-Mark-Dark](https://github.com/accodes21/accodes21/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)![GitHub-Mark-Light](https://github.com/accodes21/accodes21/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only)
