@@ -19,13 +19,14 @@
 [![My Skills](https://skillicons.dev/icons?i=materialui,ps,figma,vscode,git,github,mysql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,firebase,gcp,kubernetes,linux)](https://skillicons.dev)
 
-## 📊 My Github Stats
-
-<p align="center">
+<details>
+    <summary> <h2>📊 My Github Stats</h2></summary>
+ <p align="center">
     <a href="http://www.github.com/accodes21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=accodes21&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
  <a href="https://github.com/accodes21"><img alt="Aarya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=accodes21&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/accodes21"><img alt="Aarya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=accodes21&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
+</details>
 
     
 <h2 align="left">Connect with me:</h2>
