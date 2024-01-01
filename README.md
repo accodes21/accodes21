@@ -8,7 +8,7 @@
 # Hi I'm Aarya Chopkar 👋!
 
 - 🔭 Working on Frontend Development and Python
-- 🌱 Learning React and DSA
+- 🌱 Learning NextJS and DSA
 - 💬 Ask me about HTML, CSS, JavaScript and Python.
 - 😄 Pronouns: He/His
 - ⚡ Love Swimming, Badminton and Cricket.
